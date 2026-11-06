@@ -13,6 +13,19 @@
         "erpsample6"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "erpsample10",
+      "ProductDescription": "erpsample10",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-06T11:33:51Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "erpsample10"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
