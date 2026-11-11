@@ -41,6 +41,21 @@
         "Cash"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axpert Sales 01",
+      "ProductDescription": "Axpert Sales 01",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-11T09:41:46Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axpert",
+        "Sales",
+        "01"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
