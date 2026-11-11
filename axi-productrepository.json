@@ -56,6 +56,21 @@
         "01"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP Test 001",
+      "ProductDescription": "ERP Test 001",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-11T11:42:41Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "Test",
+        "001"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
