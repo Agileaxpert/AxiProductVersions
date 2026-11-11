@@ -26,6 +26,21 @@
         "erpsample10"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Order to Cash",
+      "ProductDescription": "Order to Cash",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-11T06:41:38Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Order",
+        "to",
+        "Cash"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
