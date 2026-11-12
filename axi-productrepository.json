@@ -191,6 +191,21 @@
         "03"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Axi Masters 04",
+      "ProductDescription": "Axi Masters 04 New",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-12T12:04:54Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Axi",
+        "Masters",
+        "04"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
